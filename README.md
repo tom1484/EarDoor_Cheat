@@ -4,7 +4,7 @@
 接上手機熱點 (手機沒有行動網路也沒差
 
 ## Step 2
-開啟 XAMPP，啟動 Apache 跟 Mysql
+開啟 XAMPP，在 `Manage Servers` 啟動 `Apache` 跟 `Mysql`
 
 ## Step 3
 打開終端機，用 `ifconfig` 查看無線網路下的 IP **(inet 192.168.XXX.XXX)**
