@@ -11,7 +11,7 @@
 ![alt text](https://i.imgur.com/Jol0euV.png)
 
 ## Step 4
-輸入 `python3 ~/Downloads/EarDoor_Cheat/main.py` 啟動主程式
+輸入 `cd Downloads/EarDoor_Cheat/ && python3 main.py` 啟動主程式
 
 ## Step 5
 手機瀏覽器網址列輸入 Step 3 的 IP **(192.168.XXX.XXX)**
